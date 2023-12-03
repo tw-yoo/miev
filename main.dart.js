@@ -8503,7 +8503,7 @@ Hh:function Hh(){},
 mj:function mj(){},
 Mz:function Mz(){},
 RK:function RK(){},
-aSK(a){A.aSx(A.qz("http://miev-backend.hcailab.uos.ac.kr/model_list")).bR(new A.at6(a),t.P)},
+aSK(a){A.aSx(A.qz("https://yearly-known-finch.ngrok-free.app/model_list")).bR(new A.at6(a),t.P)},
 aTU(a){var s,r,q=t.Q,p=A.cu(a,!1,q).c
 p.toString
 s=A.cu(a,!1,q).a
@@ -46964,7 +46964,7 @@ o.toString
 q=o.h(0,A.n0(q,"[","]"))
 q.toString
 s.d.push(q)
-s.am()}else A.aTm(A.qz("http://miev-backend.hcailab.uos.ac.kr/test/inference/"+a),q).bR(new A.atV(s,a,q),t.P)},
+s.am()}else A.aTm(A.qz("https://yearly-known-finch.ngrok-free.app/test/inference/"+a),q).bR(new A.atV(s,a,q),t.P)},
 $S:50}
 A.atV.prototype={
 $1(a){var s=A.aMh(B.bD.QH(0,A.aDR(A.aCw(a.e).c.a.h(0,"charset")).el(0,a.w),null)),r=this.a,q=A.cu(r,!1,t.XH),p=this.b,o=A.n0(this.c,"[","]"),n=q.a
