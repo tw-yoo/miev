@@ -47233,7 +47233,7 @@ A.alU.prototype={
 $2(a,b){return a.b},
 $S:146}
 A.alS.prototype={
-$2(a,b){return A.aSO(a.a,this.a)+" \n "+B.d.a1(a.b,3)},
+$2(a,b){return A.aSO(a.a,this.a)+" \n "+B.d.a1(a.b,3)+"%"},
 $S:80}
 A.dc.prototype={}
 A.yh.prototype={
