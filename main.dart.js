@@ -47248,7 +47248,7 @@ B.c.ae(k,new A.ama(k,s))
 r=A.cu(a,!1,l).adl(s)
 q=r.length!==0?new A.ac(r,new A.amb(),A.a0(r).i("ac<1,Q>")).kZ(0,B.hR)*1.1:1
 A.op("maxY: "+A.i(q))
-l=A.ayB("Carbon Emission of Selected Model(s)",A.bJ(m,m,m,m,m,m,m,m,m,m,m,20,m,m,B.ab,m,m,!0,m,m,m,m,m,m,m,m))
+l=A.ayB("Carbon Emission of Selected Model(s)\nDouble Click the Chart to See Details",A.bJ(m,m,m,m,m,m,m,m,m,m,m,15,m,m,B.ab,m,m,!0,m,m,m,m,m,m,m,m))
 p=A.ayz(B.ho,m,m,A.a0C("Model",A.bJ(m,m,m,m,m,m,m,m,m,m,m,m,m,m,B.ab,m,m,!0,m,m,m,m,m,m,m,m)))
 o=A.aA7(q*0.1,m,B.ho,m,m,q,0,A.a0C("Carbon Emissions (CO2 grams)",A.bJ(m,m,m,m,m,m,m,m,m,m,m,m,m,m,B.ab,m,m,!0,m,m,m,m,m,m,m,m)))
 n=this.d
