@@ -47081,7 +47081,7 @@ $S:289}
 A.BM.prototype={
 ai(){return new A.XC(A.aE7(B.c.gP(B.pB)),B.j)}}
 A.XC.prototype={
-M(a){var s=null,r=A.bW(s,B.Sh,s,s,s,s,s,B.Er,s,s),q=this.d,p=A.bW(s,s,B.c3,s,s,2,s,s,s,s),o=t.q0
+M(a){var s=null,r=A.bW(s,B.Si,s,s,s,s,s,B.Er,s,s),q=this.d,p=A.bW(s,s,B.c3,s,s,2,s,s,s,s),o=t.q0
 return A.hg(A.b([r,A.az4(16,B.pj,A.ao(new A.ac(B.pB,new A.aqb(),o),!0,o.i("aE.E")),new A.aqc(this,a),B.yQ,p,q,t.N)],t.p),B.X,B.a_,B.a2,s)}}
 A.aqc.prototype={
 $1(a){var s=this.a
@@ -47106,13 +47106,13 @@ M(a){var s,r=t.w
 a.a_(r).toString
 a.a_(r).toString
 s=A.cu(a,!0,t.Q).b
-if(s==null)return B.Sl
+if(s==null)return B.Sh
 else return new A.fi(1,B.p4,A.aK6(s,B.A9),null)}}
 A.yJ.prototype={
 ai(){return new A.Lc(B.j)}}
 A.Lc.prototype={
 M(a){var s=null
-return A.bW(s,new A.MG(new A.a8m(a),s,s,s,s,B.x,s,!1,s,B.Si,s),s,s,s,s,s,new A.ar(0,20,0,0),s,s)}}
+return A.bW(s,new A.MG(new A.a8m(a),s,s,s,s,B.x,s,!1,s,B.Sj,s),s,s,s,s,s,new A.ar(0,20,0,0),s,s)}}
 A.a8m.prototype={
 $0(){A.atX(this.a)},
 $S:0}
@@ -47144,7 +47144,7 @@ aL(){this.b2()
 this.e.a3(0,new A.aa3(this))},
 n(){this.e.n()
 this.aV()},
-M(a){var s,r=null,q=A.cu(a,!0,t.Md).a,p=A.bW(r,B.Sk,r,r,r,r,r,B.Et,r,r),o=A.bJ(r,r,B.n,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)
+M(a){var s,r=null,q=A.cu(a,!0,t.Md).a,p=A.bW(r,B.Sl,r,r,r,r,r,B.Et,r,r),o=A.bJ(r,r,B.n,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)
 p=A.b([p,A.aBm(A.bW(r,new A.C9(this.e,B.FB,B.OJ,o,B.ND,B.NE,!0,r),r,r,B.A7,60,r,new A.ar(16,0,16,0),new A.ar(20,8,0,0),r),new A.c(0,-25))],t.p)
 o=A.jM(q,A.a0(q).c)
 o=A.ao(o,!0,A.q(o).c)
@@ -47209,7 +47209,7 @@ M(a){var s,r,q,p,o,n,m=null,l=A.b([],t.HF),k=t.Q,j=A.cu(a,!0,k).y
 if(!A.cu(a,!0,k).x)return A.eC(j,m,m,m,m,m,m,m,m)
 else{k=A.cu(a,!0,k).d
 s=new A.aN(k,new A.alR(j),A.a0(k).i("aN<1>"))
-if(!s.gaj(s).B())return B.Sj
+if(!s.gaj(s).B())return B.Sk
 else{r=s.gP(s)
 k=r.b
 q=k+r.c+r.d+r.e
@@ -103250,15 +103250,15 @@ B.R_=new A.w(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.Sf=new A.eE(B.QK,B.RZ,B.RG,B.Ps,B.Ry,B.QD,B.S2,B.PT,B.Qm,B.Rt,B.Pn,B.RI,B.Rw,B.Rp,B.R_)
 B.yR=new A.Cl(1,"longestLine")
 B.Sg=new A.ia("MIEV",null,null,null,null,null,null,null,null,null,null)
-B.R5=new A.w(!0,null,null,null,null,null,15,B.a8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Sh=new A.ia("Order by",null,B.R5,null,null,null,null,null,null,null,null)
-B.Si=new A.ia("Click to Upload Image",null,B.ho,null,null,null,null,null,null,null,null)
-B.Sj=new A.ia("",null,null,null,null,null,null,null,null,null,null)
-B.R6=new A.w(!0,null,null,null,null,null,20,B.a8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Sk=new A.ia("Models",null,B.R6,null,null,null,null,null,null,null,null)
 B.C5=new A.y(2617245696)
 B.Rq=new A.w(!0,B.C5,null,null,null,null,18,B.a8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Sl=new A.ia("Image Not Uploaded\n You should upload an image to create chart.",null,B.Rq,null,null,null,null,null,null,null,null)
+B.Sh=new A.ia("2. Upload an Image\n You should upload an image to create chart.",null,B.Rq,null,null,null,null,null,null,null,null)
+B.R5=new A.w(!0,null,null,null,null,null,15,B.a8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Si=new A.ia("Order by",null,B.R5,null,null,null,null,null,null,null,null)
+B.Sj=new A.ia("Click to Upload Image",null,B.ho,null,null,null,null,null,null,null,null)
+B.Sk=new A.ia("",null,null,null,null,null,null,null,null,null,null)
+B.R6=new A.w(!0,null,null,null,null,null,20,B.a8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Sl=new A.ia("1. Select Models",null,B.R6,null,null,null,null,null,null,null,null)
 B.VG=new A.Qz(0,"system")
 B.yS=new A.Cn(0)
 B.Sm=new A.Cn(0.5)
